@@ -24,10 +24,9 @@
   <img align="center" alt="Mih-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mih-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
-  <br>
+<br>
 
-<img src="https://github.com/MihVargas/mihvargas/blob/main/programmer.gif" alt="Mario Game" width="200">
+<img src="https://github.com/MihVargas/mihvargas/blob/main/Super_Mario.gif" alt="Mario Game" width="980">
 
 <br>
   
