@@ -25,6 +25,12 @@
   <img align="center" alt="Mih-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
+  <br>
+
+<img src="https://github.com/MihVargas/mihvargas/blob/main/programmer.gif" alt="Mario Game" width="200">
+
+<br>
+  
   ##
  
 
