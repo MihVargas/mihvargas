@@ -1,16 +1,16 @@
 ## Opa! Mih Vargas aqui
 <div> 
   <a href="https://www.linkedin.com/in/michele-vargas-98056077/">
-    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/MihVargas/mihvargas/blob/main/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://twitter.com/MihVargas7">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/MihVargas/mihvargas/blob/main/Twitter.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/mihvargas7/">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/MihVargas/mihvargas/blob/main/Instagram.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:mih.vargas@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/MihVargas/mihvargas/blob/main/Gmail.svg" />
   </a>
 </div>
  <div><br>
