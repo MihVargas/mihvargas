@@ -66,4 +66,4 @@ Projetos e experimentos relacionados a:
 
 ## Onde me encontrar
 
-[LinkedIn](https://www.linkedin.com/in/michele-vargas-98056077/) · [Instagram](https://www.instagram.com/vargass.mi/) 
+[LinkedIn](https://www.linkedin.com/in/michele-vargas/) · [Instagram](https://www.instagram.com/vargass.mi/) 
