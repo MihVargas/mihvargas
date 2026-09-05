@@ -1,39 +1,69 @@
-## Opa! Mih Vargas aqui!!!
+# Michele Vargas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mih-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+### Data Engineer | Python | Data & AI
 
-</div>
+Engenheira de Dados com experiência em construção e evolução de soluções para dados, atuando principalmente com **Python, PySpark e SQL**.
 
-<br>
+Trabalho com diferentes ambientes de dados e cloud, incluindo **Azure, AWS, Databricks, Synapse, Data Factory, S3 e Redshift**, além de ferramentas de BI como **Power BI**.
 
-<div>
-  <a href="https://github.com/MihVargas">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mihvargas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihvargas&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-  
-## Me Segue Aí 
-<div style="display: inline_block"><br>
-  <a href="https://www.linkedin.com/in/michele-vargas-98056077/">
-    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/MihVargas/mihvargas/blob/main/Linkedin.svg" />
-  </a> 
-  <a href="https://twitter.com/MihVargas7">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/MihVargas/mihvargas/blob/main/Twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/mihvargas7/">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/MihVargas/mihvargas/blob/main/Instagram.svg" />
-  </a>
-  <a href="mailto:mih.vargas@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/MihVargas/mihvargas/blob/main/Gmail.svg" />
-  </a> 
-<br>
-</div>
-  <div style="display: inline_block"><br>
-  <img align="left" alt="dino-chrome" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif?cid=790b76114f94014baf9e1b128ded20e4ccf0a768113580d7&rid=giphy.gif&ct=gr" width="50">
-</div>
-<br><br>
-  
-  ##
- ![Snake animation](https://github.com/mihvargas/mihvargas/blob/output/github-contribution-grid-snake.svg)
+Atualmente, também estou explorando a aplicação de **IA e agentes na engenharia de dados**, com projetos envolvendo **CrewAI, LLMs e automação de processos relacionados a dados e documentação**.
 
+---
+
+## Tecnologias
+
+**Data Engineering**
+
+`Python` `PySpark` `SQL` `Spark` `Databricks`
+
+**Cloud & Data Platforms**
+
+`Azure` `AWS` `S3` `Synapse` `Redshift` `Data Factory` `Glue`
+
+**Analytics & BI**
+
+`Power BI` `Tabular Editor` `SSAS`
+
+**AI & Automation**
+
+`CrewAI` `LLMs` `AI Agents` `Python`
+
+---
+
+## Projetos
+
+### Dobby
+
+Engine para geração automatizada de documentação de pipelines de dados utilizando agentes de IA.
+
+O projeto utiliza **CrewAI** para analisar arquivos de configuração e componentes de pipelines e transformar essas informações em documentação técnica padronizada.
+
+Principais conceitos explorados:
+
+* Multi-agent systems
+* LLMs
+* Pydantic
+* Python
+* Análise estruturada de pipelines
+* Geração de documentação
+* Orquestração de agentes
+
+---
+
+## O que você encontrará por aqui
+
+Projetos e experimentos relacionados a:
+
+* Engenharia de Dados
+* Python e PySpark
+* Processamento e organização de dados
+* Cloud Data Platforms
+* Automação de pipelines
+* IA aplicada a dados
+* Agentes e LLMs
+
+---
+
+## Onde me encontrar
+
+[LinkedIn](https://www.linkedin.com/in/michele-vargas-98056077/) · [Instagram](https://www.instagram.com/vargass.mi/) 
